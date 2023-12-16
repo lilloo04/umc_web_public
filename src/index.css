@@ -1,0 +1,26 @@
+/* .app-container {
+  background-color: rgb(255, 255, 255);
+  padding: 0%;
+  margin: 0%;
+}
+
+.detailStyle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 346px;
+  background-color: rgba(
+    250,
+    250,
+    250,
+    0.8
+  ); 
+  display: none;
+  font-size: small;
+  overflow-y: auto; 
+} */
+
+body {
+  margin: 0%;
+}
